@@ -17,5 +17,7 @@ API para montar pedidos de compra de frutas e vegetais
 * Criação de end-points para delete e update
 * Fazer deploy no Heroku
 
-### 
+### Projetos relacionados
+
+Como parte de demonstração da evolução dessa API, segue projeto com nível mais avançado <a href="https://github.com/eokida/spring-jwt">Sprint Boot com JWT</a>
 
